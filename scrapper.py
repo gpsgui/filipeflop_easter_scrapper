@@ -3,23 +3,23 @@ import time
 from bs4 import BeautifulSoup
 
 url_categories = [
-    # "https://www.filipeflop.com/categoria/arduino/",
-    # "https://www.filipeflop.com/categoria/campanha_natal_filipeflop/",
-    # "https://www.filipeflop.com/categoria/componentes-eletronicos/",
-    # "https://www.filipeflop.com/categoria/display-e-iluminacao/",
-    # "https://www.filipeflop.com/categoria/impressao-3d/",
-    # "https://www.filipeflop.com/categoria/livros/",
-    # "https://www.filipeflop.com/categoria/modulos/",
-    # "https://www.filipeflop.com/categoria/outlet/",
-    # "https://www.filipeflop.com/categoria/partes/",
-    "https://www.filipeflop.com/categoria/placas-de-desenvolvimento/"
-    # "https://www.filipeflop.com/categoria/prototipagem/",
-    # "https://www.filipeflop.com/categoria/raspberry-pi/",
-    # "https://www.filipeflop.com/categoria/robotica/",
-    # "https://www.filipeflop.com/categoria/sensores/",
-    # "https://www.filipeflop.com/categoria/teste-e-medicao/",
-    # "https://www.filipeflop.com/categoria/wearable/",
-    # "https://www.filipeflop.com/categoria/wireless-e-iot/"
+    "https://www.filipeflop.com/categoria/arduino/",
+    "https://www.filipeflop.com/categoria/campanha_natal_filipeflop/",
+    "https://www.filipeflop.com/categoria/componentes-eletronicos/",
+    "https://www.filipeflop.com/categoria/display-e-iluminacao/",
+    "https://www.filipeflop.com/categoria/impressao-3d/",
+    "https://www.filipeflop.com/categoria/livros/",
+    "https://www.filipeflop.com/categoria/modulos/",
+    "https://www.filipeflop.com/categoria/outlet/",
+    "https://www.filipeflop.com/categoria/partes/",
+    "https://www.filipeflop.com/categoria/placas-de-desenvolvimento/",
+    "https://www.filipeflop.com/categoria/prototipagem/",
+    "https://www.filipeflop.com/categoria/raspberry-pi/",
+    "https://www.filipeflop.com/categoria/robotica/",
+    "https://www.filipeflop.com/categoria/sensores/",
+    "https://www.filipeflop.com/categoria/teste-e-medicao/",
+    "https://www.filipeflop.com/categoria/wearable/",
+    "https://www.filipeflop.com/categoria/wireless-e-iot/"
 ]
 url_regulamento = "https://www.filipeflop.com/regulamento/"
 
